@@ -20,11 +20,11 @@
   line-height: 1;
 
   @include breakpoint($medium) {
-    padding-left: 2rem;
+    padding-left: 0;
   }
 
   @include breakpoint($large) {
-    padding-left: 5vw;
+    padding-left: 0;
   }
 
   a {

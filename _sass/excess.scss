@@ -15,8 +15,22 @@
 
 #masthead {
   background: $overlay-color;
+  position: fixed;
+  width: 100%;
 }
 
 #footer {
+  padding-top: 5rem;
   background: $overlay-color;
+}
+
+article p {
+  font-family: $sans-serif-font-family;
+}
+
+footer .entries-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));
+  grid-gap: 2em;
+  color: black;
 }

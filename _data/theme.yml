@@ -17,7 +17,7 @@ t:
   older: "Older"
   email: "Email"
   subscribe: "Subscribe"
-  read_more: "Read More"
+  read_more: "Mehr erfahren"
   posts: "Posts"
   page: "Page"
   of: "of"
@@ -44,6 +44,8 @@ google_fonts:
   - name: "Fira Sans"
     weights: "400,400i,600,600i"
   - name: "Amethysta"
+    weights: "400,400i,600,600i"
+  - name: "DM Sans"
     weights: "400,400i,600,600i"
 
 # Link to specific internal pages in the navigation.

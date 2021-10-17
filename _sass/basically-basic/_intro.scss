@@ -3,9 +3,10 @@
    ========================================================================== */
 
 .intro {
-  margin: 1rem 0;
-  padding-top: 2rem;
+  margin: 0;
+  padding-top: 0;
   padding-bottom: 2rem;
+  background: $overlay-color;
 }
 
 .intro-image {
@@ -31,7 +32,7 @@
 }
 
 .intro-text {
-
+  width: 75%;
   /* remove space after last child element */
   > *:last-child {
     margin-bottom: 0;
@@ -39,10 +40,11 @@
 }
 
 .intro-title {
-  @include fluid-type($min-vw, $max-vw, 26px, 80px);
+  @include fluid-type($min-vw, $max-vw, 15px, 40px);
   margin-bottom: 1rem;
-  color: tint($text-color, 25%);
+  color: black;
   line-height: 1;
+  padding-top: 30rem;
 }
 
 .intro-subtitle {
@@ -64,4 +66,5 @@
     font-size: 1.125em;
     line-height: 1.625;
   }
+  padding-bottom: 5rem;
 }

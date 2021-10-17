@@ -132,7 +132,7 @@
    .entries-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
-    grid-gap: 2em;
+    grid-gap: 4em;
 
     .entry {
       display: -webkit-box;
@@ -143,6 +143,7 @@
       -ms-flex-direction: column;
       flex-direction: column;
       margin-bottom: 0;
+      margin-right: 4rem;
       padding-bottom: 2rem;
       border-bottom: none;
     }

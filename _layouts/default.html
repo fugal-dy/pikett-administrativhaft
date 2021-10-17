@@ -19,7 +19,48 @@
       </div>
     </div>
 
-    {% include footer.html %}
+    <footer id="footer" class="site-footer">
+        <div class="inner">
+          <div class="entries-grid">
+            <article class="entry">
+              <header class="entry-header">
+                <h3 class="entry-title">Kontakt</h3>
+              </header>
+              <p>Tel. Pikett: +41 44 521 47 47</p>
+              <p>Geschäftsstelle</br>
+                Verein Pikett-Administrativhaft c/o Rechtsauskunft Anwaltskollektiv</br>
+              Kernstrasse 8, 8004 Zürich
+              </p>
+              <p>+41 44 521 47 48</p>
+            </article>
+            <article class="entry">
+              <header class="entry-header">
+                <h3 class="entry-title">Mitglied werden</h3>
+              </header>
+              <p>Um Mitglied zu werden, schicken Sie das ausgefüllte PDF bitte an <a href="mailto:info@pa-z.ch">info@pa-z.ch</a></p>
+              <p><a href="{{ '/assets/anmeldeformular.pdf' | relative_url }}">Anmeldeformular downloaden</a></p>
+            </article>
+            <article class="entry">
+              <header class="entry-header">
+                <h3 class="entry-title">Unterstützen</h3>
+              </header>
+              <p>CH06 0839 0038 4665 1000 6</p>
+              <p>Pikett Administrativhaft</br>
+                Malzstrasse 13</br>8045 Zürich
+              </p>
+            </article>
+          </div>
+
+          <div class="copyright">
+            {% if site.copyright %}
+            {{ site.copyright | markdownify }}
+            {% else %}
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+            {% endif %}
+          </div>
+        </div>
+      </footer>
+
     {% include scripts.html %}
 
   </body>

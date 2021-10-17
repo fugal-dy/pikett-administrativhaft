@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0103b0fd-8683-4de6-a9b5-62ecccdb29fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/entry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/google-analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head-feed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head-seo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-bitbucket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-codepen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-facebook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-instagram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-linkedin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-pinterest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-pinterest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-soundcloud.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-soundcloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-stackoverflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-stackoverflow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-stopwatch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-tumblr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-tumblr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-twitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-xing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-xing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-youtube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-youtube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/masthead.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/page-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/page-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-paginated.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts-tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Donate.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Logo.webp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zFJhJsUN5wSXvZ2qJKqBOEyjLA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_pages" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0103b0fd-8683-4de6-a9b5-62ecccdb29fe" name="Changes" comment="" />
+      <created>1633738019935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633738019935</updated>
+      <workItem from="1633738021100" duration="932000" />
+      <workItem from="1633996223765" duration="2290000" />
+      <workItem from="1634417747348" duration="22338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

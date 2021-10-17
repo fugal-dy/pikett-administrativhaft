@@ -1,15 +1,17 @@
 ---
-layout: posts
+layout: default
 entries-layout: grid
 ---
 
 {% include page-intro.html %}
 
 <main id="main" class="page-content" aria-label="Content">
-    <div>{{ content }}</div>
-    <div class="entries-grid">
-    {% for post in site.pages %}
-        {% include entry.html %}
-      {% endfor %}
-  </div>
+    <div class="inner">
+        <div>{{ content }}</div>
+        <div class="entries-grid">
+        {% for post in site.pages %}
+            {% include entry.html %}
+          {% endfor %}
+        </div>
+    </div>
 </main>

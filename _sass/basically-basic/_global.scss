@@ -5,13 +5,11 @@
 .site-title {
   position: static;
   display: flex;
-  height: 10rem;
+  height: 80pt;
   align-content: space-between;
   @include fluid-type($min-vw, $max-vw, 20px, 24px);
   margin: 0;
-  padding: 1.8125rem 1rem;
-  padding-top: 0;
-  padding-botton: 0;
+  padding: 0;
   /* padding-right: calc(
     10vw + (2 * #{$navicon-width})
   ); /* make room for sidebar toggle */
